@@ -8,8 +8,8 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6495ED?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_GITHUB_PAGES_URL)
-[![Behind the Visor](https://img.shields.io/badge/BEHIND_THE_VISOR-101820?style=for-the-badge&logo=substack&logoColor=white)](YOUR_SUBSTACK_URL)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6495ED?style=for-the-badge&logo=googlechrome&logoColor=white)]regan-spurgin.github.io
+[![Behind the Visor](https://img.shields.io/badge/BEHIND_THE_VISOR-101820?style=for-the-badge&logo=substack&logoColor=white)]behindthevisorf1.substack.com
 
 </div>
 
